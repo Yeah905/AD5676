@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Oct 17 19:48:06 2025
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : DAC_Six_Out_v1
+Top-level Entity Name : DAC_Six_Out_v1
+Family : Cyclone IV E
+Total logic elements : 0
+    Total combinational functions : 0
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 28
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
