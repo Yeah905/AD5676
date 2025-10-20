@@ -7,7 +7,7 @@ module key_debounce(
 );
 
 //parameter define
-parameter  CNT_MAX = 20'd100_0000;    //消抖时间20ms
+parameter  CNT_MAX = 21'd50_0000;    //消抖时间10ms
 
 //reg define
 reg [20:0] cnt ;
